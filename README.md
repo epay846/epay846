@@ -13,6 +13,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=auto)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=auto)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=auto)
+![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat&logo=databricks&logoColor=auto)
 
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Orgs</p>
