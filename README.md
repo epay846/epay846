@@ -11,6 +11,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat&logo=scikitlearn&logoColor=auto)
 ![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=auto)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=auto)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=auto)
+![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=auto)
+
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Orgs</p>
 
