@@ -19,7 +19,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=auto)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=auto)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=auto)
-![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=github&logoColor=au
+![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=github&logoColor=auto)
 ![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat&logo=databricks&logoColor=auto)
 ![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=microsoftsqlserver&logoColor=auto)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=auto)
