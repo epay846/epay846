@@ -23,6 +23,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=auto)
 ![Qlik Sense Hub](https://img.shields.io/badge/Qlik%20Sense%20Hub-000000?style=flat&logo=qlik&logoColor=auto)
 ![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-000000?style=flat&logo=powerbi&logoColor=auto)
+![Palantir](https://img.shields.io/badge/Palantir-000000?style=flat&logo=palantir&logoColor=auto)
+![Maven Smart Systems](https://img.shields.io/badge/Maven%20Smart%20Systems-000000?style=flat&logoColor=auto)
 
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Orgs</p>
