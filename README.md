@@ -7,7 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=auto)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=auto)
 ![R](https://img.shields.io/badge/R-000000?style=flat&logo=r&logoColor=auto)
-![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=github&logoColor=auto)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=flat&logo=apachespark&logoColor=auto)
+
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Tech</p>
 
@@ -18,6 +19,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=auto)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=auto)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=auto)
+![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=github&logoColor=au
 ![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat&logo=databricks&logoColor=auto)
 ![SSMS](https://img.shields.io/badge/SSMS-000000?style=flat&logo=microsoftsqlserver&logoColor=auto)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=auto)
