@@ -38,4 +38,4 @@
 
 ## Disclaimer
 
-Given the sensitive nature of the data used in my DoD projects, I'm unable to publicly showcase my work.
+Given the sensitive nature of the data used in my DoD projects, I'm unable to publicly showcase my day-to-day work; however, side projects and collegiate endeavors are available.
