@@ -8,6 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=auto)
 ![R](https://img.shields.io/badge/R-000000?style=flat&logo=r&logoColor=auto)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=flat&logo=apachespark&logoColor=auto)
+![HTML](https://img.shields.io/badge/HTML-FFA500?style=flat&logo=html5&logoColor=white)
 
 
 <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Tech</p>
